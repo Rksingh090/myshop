@@ -1,0 +1,211 @@
+[
+    {
+        "_id": "63b5eb44df726837f91000dd",
+        "name": "Adidas Fit Shirt",
+        "slug": "adidas-fit-shirt",
+        "image": "/images/p2.jpg",
+        "images": [],
+        "brand": "Adidas",
+        "category": "Shirts",
+        "description": "high quality product",
+        "price": 250,
+        "countInStock": 0,
+        "rating": 4,
+        "numReviews": 10,
+        "reviews": [],
+        "__v": 0,
+        "createdAt": "2023-01-04T21:10:28.374Z",
+        "updatedAt": "2023-01-04T21:10:28.374Z"
+    },
+    {
+        "_id": "63b5eb44df726837f91000de",
+        "name": "Nike Slim Pant",
+        "slug": "nike-slim-pant",
+        "image": "/images/p3.jpg",
+        "images": [],
+        "brand": "Nike",
+        "category": "Pants",
+        "description": "high quality product",
+        "price": 25,
+        "countInStock": 15,
+        "rating": 3.5,
+        "numReviews": 4,
+        "reviews": [
+            {
+                "name": "sadegh",
+                "comment": "nice",
+                "rating": 5,
+                "_id": "63b66d846a7ae1ee6b9d0f96",
+                "createdAt": "2023-01-05T06:26:12.666Z",
+                "updatedAt": "2023-01-05T06:26:12.666Z"
+            },
+            {
+                "name": "Kyev",
+                "comment": "Que asco de pagina",
+                "rating": 1,
+                "_id": "63bc26671e0c7003b0ea6051",
+                "createdAt": "2023-01-09T14:36:23.339Z",
+                "updatedAt": "2023-01-09T14:36:23.339Z"
+            },
+            {
+                "name": "marina2",
+                "comment": "good",
+                "rating": 5,
+                "_id": "63bd89fe83c8416a609d5a09",
+                "createdAt": "2023-01-10T15:53:34.617Z",
+                "updatedAt": "2023-01-10T15:53:34.617Z"
+            },
+            {
+                "name": "danil",
+                "comment": "dadad",
+                "rating": 3,
+                "_id": "63bd8a1983c8416a609d5a0f",
+                "createdAt": "2023-01-10T15:54:01.054Z",
+                "updatedAt": "2023-01-10T15:54:01.054Z"
+            }
+        ],
+        "__v": 4,
+        "createdAt": "2023-01-04T21:10:28.374Z",
+        "updatedAt": "2023-01-10T15:54:01.054Z"
+    },
+    {
+        "_id": "63b5eb44df726837f91000df",
+        "name": "Adidas Fit Pant",
+        "slug": "adidas-fit-pant",
+        "image": "/images/p4.jpg",
+        "images": [],
+        "brand": "Puma",
+        "category": "Pants",
+        "description": "high quality product",
+        "price": 65,
+        "countInStock": 5,
+        "rating": 3.5,
+        "numReviews": 4,
+        "reviews": [
+            {
+                "name": "admin",
+                "comment": "sss",
+                "rating": 1,
+                "_id": "63bb7de61c388a03247f4f45",
+                "createdAt": "2023-01-09T02:37:26.329Z",
+                "updatedAt": "2023-01-09T02:37:26.329Z"
+            },
+            {
+                "name": "MOULOUDJ IMAD EDDINE",
+                "comment": "sdqsd",
+                "rating": 4,
+                "_id": "63bc8cf2838d0b32b379141e",
+                "createdAt": "2023-01-09T21:53:54.976Z",
+                "updatedAt": "2023-01-09T21:53:54.976Z"
+            },
+            {
+                "name": "danil",
+                "comment": "cool",
+                "rating": 4,
+                "_id": "63bd8a4683c8416a609d5a33",
+                "createdAt": "2023-01-10T15:54:46.329Z",
+                "updatedAt": "2023-01-10T15:54:46.329Z"
+            },
+            {
+                "name": "marina2",
+                "comment": "good",
+                "rating": 5,
+                "_id": "63bd8a5d83c8416a609d5a3d",
+                "createdAt": "2023-01-10T15:55:09.920Z",
+                "updatedAt": "2023-01-10T15:55:09.920Z"
+            }
+        ],
+        "__v": 4,
+        "createdAt": "2023-01-04T21:10:28.455Z",
+        "updatedAt": "2023-01-10T15:55:09.920Z"
+    },
+    {
+        "_id": "63bab2c1133af6a58f005284",
+        "name": "sample name 1673179841667",
+        "slug": "sample-name-1673179841667",
+        "image": "/images/p1.jpg",
+        "images": [],
+        "brand": "sample brand",
+        "category": "sample category",
+        "description": "sample description",
+        "price": 0,
+        "countInStock": 0,
+        "rating": 0,
+        "numReviews": 0,
+        "reviews": [],
+        "createdAt": "2023-01-08T12:10:41.676Z",
+        "updatedAt": "2023-01-08T12:10:41.676Z",
+        "__v": 0
+    },
+    {
+        "_id": "63bc22001e0c7003b0ea5fcb",
+        "name": "sample name 1673273856366",
+        "slug": "sample-name-1673273856366",
+        "image": "/images/p1.jpg",
+        "images": [],
+        "brand": "sample brand",
+        "category": "sample category",
+        "description": "sample description",
+        "price": 0,
+        "countInStock": 0,
+        "rating": 0,
+        "numReviews": 0,
+        "reviews": [],
+        "createdAt": "2023-01-09T14:17:36.376Z",
+        "updatedAt": "2023-01-09T14:17:36.376Z",
+        "__v": 0
+    },
+    {
+        "_id": "63bc4cfedf31d19e5b229d55",
+        "name": "example",
+        "slug": "example",
+        "image": "/images/p1.jpg",
+        "images": [],
+        "brand": "example",
+        "category": "example",
+        "description": "example description",
+        "price": 9,
+        "countInStock": 99,
+        "rating": 0,
+        "numReviews": 0,
+        "reviews": [],
+        "createdAt": "2023-01-09T17:21:03.000Z",
+        "updatedAt": "2023-01-09T17:25:09.339Z",
+        "__v": 0
+    },
+    {
+        "_id": "63bc57dc838d0b32b379127c",
+        "name": "sample name 1673287644538",
+        "slug": "sample-name-1673287644538",
+        "image": "/images/p1.jpg",
+        "images": [],
+        "brand": "sample brand",
+        "category": "sample category",
+        "description": "sample description",
+        "price": 0,
+        "countInStock": 0,
+        "rating": 4.5,
+        "numReviews": 2,
+        "reviews": [
+            {
+                "name": "ezeze",
+                "comment": "vfffg",
+                "rating": 5,
+                "_id": "63bd69e083c8416a609d5794",
+                "createdAt": "2023-01-10T13:36:32.265Z",
+                "updatedAt": "2023-01-10T13:36:32.265Z"
+            },
+            {
+                "name": "marina2",
+                "comment": "dfflfklfl",
+                "rating": 4,
+                "_id": "63bd89ea83c8416a609d59ed",
+                "createdAt": "2023-01-10T15:53:14.642Z",
+                "updatedAt": "2023-01-10T15:53:14.642Z"
+            }
+        ],
+        "createdAt": "2023-01-09T18:07:24.636Z",
+        "updatedAt": "2023-01-10T15:53:14.642Z",
+        "__v": 2
+    }
+]
